@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "dabaiyu plugin",
   "main": "index.js",
+  "type": "module",
+  "dsh": {
+    "bundle": true
+  },
   "keywords": [],
   "author": "",
   "license": "Apache-2.0"
