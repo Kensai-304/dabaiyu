@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   name: "dabaiyu",
   version: "1.0.0",
   register: async (ctx) => {
